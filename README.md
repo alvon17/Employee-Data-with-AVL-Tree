@@ -1,5 +1,5 @@
 # Employee-Data-with-AVL-Tree
-This is my program that me and my team made for one of our subject's final project. This program include 6 features:
+This is a program that me and my team made for one of our subject's final project. This program include 6 features:
 
 1. add new employee's data --> to adding new employee in the database
 2. update certain data --> user can update one of employee
